@@ -7,5 +7,5 @@ int main(){
         sum += val++;
     }
     std::cout << "The sum from " << valMin << " to " << valMax << " is " << sum << std::endl ;
-    return 0;
+    return 1;
 }
